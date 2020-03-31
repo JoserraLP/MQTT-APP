@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MQTT-APP</string>
+    <string name="cur_loc_text">Current location</string>
+    <string name="publish">publish</string>
+    <string name="message">Message</string>
+    <string name="topic">Topic</string>
+    <string name="no_conn">0.0.0.0:0</string>
+    <string name="connected_to">Connected to:</string>
+    <string name="mqtt_connection">MQTT Connection</string>
+    <string name="connect">connect</string>
+    <string name="disconnect">disconnect</string>
+</resources>
